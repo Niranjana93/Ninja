@@ -1,8 +1,8 @@
-class H
+class Hi
 {
-public static void main(String[] )
+public static void main(String[] args )
 {
-System.ou.println("Hi)
-System.out.printl("Hello"
+System.out.println("Hi");
+System.out.println("Hello");
 }
 }
