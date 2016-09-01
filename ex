@@ -1,1 +1,1 @@
-Cognizant Technology Solutions
+Sample
